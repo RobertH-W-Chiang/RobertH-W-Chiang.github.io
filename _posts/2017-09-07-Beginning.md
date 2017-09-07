@@ -1,5 +1,6 @@
 ---
-categories: VisualCryptography Django GoogleCloudPlatform
+categories: Programming
+tags: VisualCryptography Django GoogleCloudPlatform
 ---
 
 前言
