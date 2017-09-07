@@ -1,3 +1,7 @@
+---
+categories: Visual Cryptography, Django, Google Cloud Platform
+---
+
 前言
 ===
 
