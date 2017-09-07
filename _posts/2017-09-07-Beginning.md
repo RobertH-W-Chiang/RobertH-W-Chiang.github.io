@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 凡事總有開始
+title: Beginning
 ---
 
 前言
