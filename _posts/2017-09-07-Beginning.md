@@ -62,11 +62,11 @@ tags: VisualCryptography Django GoogleCloudPlatform
 1. 安裝 `cookiecutter-django`：  
    * `pip install cookiecutter`
    * `cookiecutter https://github.com/pydanny/cookiecutter-django`
-   接著就會出現一連串的設定需要你輸入，輸入完畢之後就會出現一個 `YOUR_PROJECT_NAME` 的資料夾
+   接著就會出現一連串的設定需要你輸入，輸入完畢之後就會出現一個 `YOUR_PROJECT_SLUG` 的資料夾
    需要特別注意的是 `project_slug` 和 `postgresql_version` 這兩個設定：  
      * `project_slug`：等同於資料庫的名稱，務必記得
      * `postgresql_version`：和上述安裝的 `Postgresql` 版本需一致
-1. `cd YOUR_PROJECT_NAME`
+1. `cd YOUR_PROJECT_SLUG`
 1. `pip install -r requirements/local.txt`
 1. 建立 Postgresql DB for `cookiecutter-django` 專案  
    * `sudo -u postgres psql`  
