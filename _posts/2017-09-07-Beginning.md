@@ -19,6 +19,8 @@ tags: VisualCryptography Django GoogleCloudPlatform
 後來想想還是直接在雲端的 VM 中開發，然後設定一下 security group 就能用了  
 最終我選擇的是 [Google Cloud Platform](https://cloud.google.com/?hl=zh-tw) (以下簡稱為 GCP)
 
+---
+
 在 GCP 中建立 VM
 ===
 1. [加入免費試用 GCP](https://cloud.google.com/free/?hl=zh-tw)
@@ -36,6 +38,8 @@ tags: VisualCryptography Django GoogleCloudPlatform
 題外話，可以直接透過 GCP 的介面，用瀏覽器 SSH，蠻厲害的...  
 
 ![GCP_browser_SSH.png]({{site.baseurl}}/assets/images/GCP_browser_SSH.png)
+
+---
 
 使用 [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) 建立 `Django` 專案
 ===
