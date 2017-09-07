@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "Asia/Taipei"
+title                    : "Three Cat Cookies"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Robert Hung-Wei Chiang"
+description              : "Simple Life"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : RobertH-W-Chiang/RobertH-W-Chiang.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,23 +77,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Robert Hung-Wei Chiang"
+  avatar           : "https://avatars1.githubusercontent.com/u/13159437?v=4&u=9c239eb24c526c2d6ad3877d5eddf18cefc70113"
+  bio              : ""
+  location         : "Taiwan"
+  email            : "johnmay0629@gmail.com"
+  uri              : "https://roberthwchiang.herokuapp.com/"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/johnmay0629/"
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/RobertH-W-Chiang"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -105,7 +105,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+#  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCvvqVbBwI7seUqjDZ3wV8Zg"
 
 
 # Reading Files
