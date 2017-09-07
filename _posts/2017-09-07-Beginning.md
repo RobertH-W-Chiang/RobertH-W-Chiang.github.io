@@ -1,8 +1,3 @@
----
-layout: post
-title: Beginning
----
-
 前言
 ===
 
