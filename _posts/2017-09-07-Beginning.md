@@ -1,5 +1,5 @@
 ---
-categories: Visual Cryptography, Django, Google Cloud Platform
+categories: VisualCryptography Django GoogleCloudPlatform
 ---
 
 前言
