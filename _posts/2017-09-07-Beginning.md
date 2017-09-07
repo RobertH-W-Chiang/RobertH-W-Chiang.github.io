@@ -7,7 +7,7 @@ tags: VisualCryptography Django GoogleCloudPlatform
 ===
 
 ### 目標
-<i class="fa fa-pencil" aria-hidden="true"></i> 用 `Django` 撰寫關於 _Visual Cryptography_ (視覺密碼) 的網站
+> <i class="fa fa-pencil" aria-hidden="true"></i> 用 `Django` 撰寫關於 _Visual Cryptography_ (視覺密碼) 的網站
 
 ### 關於此專案
 *  開發環境：`Ubuntu 14.04`
